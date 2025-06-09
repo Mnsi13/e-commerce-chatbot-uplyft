@@ -1,0 +1,15 @@
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Database
+db.sqlite3
+
+# VSCode settings (optional)
+.vscode/
